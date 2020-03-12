@@ -1,5 +1,5 @@
 # Blog
-写博客的地方，学习记录，项目记录，JavaScript系列、vue系列
+写博客的地方，学习记录，JavaScript系列、vue系列
 
 [es6-es10](https://github.com/wmiya/Blog/issues/1)
 
